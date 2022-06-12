@@ -1,4 +1,5 @@
 # git-essentials
+Some other editing. 
 Git for everybody. This is a course to get started with git. This is for everybody who likes to get to know working with git. 
 
 ## Deployment Notes 
